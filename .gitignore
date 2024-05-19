@@ -1,3 +1,4 @@
 .env/*
 hud.py
 *.pth
+secrets.toml
